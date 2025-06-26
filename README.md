@@ -18,11 +18,6 @@ Group Members
    
 4. Lapobo Kevin
 
-Live Demo
-
-(Deploy the site on GitHub Pages and add the link here)
-
-[https://francis-21.github.io/team-axe--dashboard-template/](https://francis-21.github.io/team-axe--dashboard-template/)
 How to Use
 
 To run this project locally:
