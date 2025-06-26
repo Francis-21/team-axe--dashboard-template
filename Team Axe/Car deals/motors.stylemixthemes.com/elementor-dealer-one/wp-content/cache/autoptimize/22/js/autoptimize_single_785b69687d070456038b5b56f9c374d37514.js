@@ -1,0 +1,1 @@
+(function($){$(document).on('ready',function(){jQuery('.mosaic-gallery').lightGallery({selector:'.stm_fancybox',mode:'lg-fade',download:false,thumbnail:true,});});})(jQuery);
