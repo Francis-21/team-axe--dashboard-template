@@ -14,9 +14,9 @@ Group Members
 
 2.Ocan Patrick
 
-3.Atoo Norbert
+3. Atoo Norbert
 
-5.Lapobo Kevin
+5. Lapobo Kevin
 
 How to Use
 
